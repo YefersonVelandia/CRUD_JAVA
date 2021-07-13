@@ -1,0 +1,51 @@
+body{
+    background: linear-gradient(lightcyan,lightyellow);
+}
+
+
+nav{
+    background: black;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+}
+
+nav ul{
+    list-style: none;
+    padding: 0em;
+}
+
+nav li{
+    display: inline;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+submit{
+    margin-top: 40px;
+}
+nav li a{
+    padding: 0.9em
+}
+
+ li :hover{
+    background-color: white;
+    border-bottom-color: chartreuse;
+    color: black;
+    border-color: aqua;
+    border-radius: 22px;
+}
+
+
+table,td,tr,th {
+    color: black;
+    border: 1px solid black;
+}
+
+button, input {
+  font-family : inherit;
+  font-size   : 100%;
+}
+
